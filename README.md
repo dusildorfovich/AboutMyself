@@ -1,4 +1,4 @@
-![AvatarFoto](https://drive.google.com/file/d/1wE0Rk4mAMigXgthkrJeQOGzYF7zDLPEJ/view?usp=sharing)
+![AvatarFoto](https://github.com/dusildorfovich/AboutMyself/blob/main/Foto.png)
 
 # Обо мне
 
